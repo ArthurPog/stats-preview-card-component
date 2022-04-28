@@ -1,4 +1,4 @@
-# Stats preview card component challenge from Frontend Mentor
+# My fifth project and solution to the stats preview card component challenge over at [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 ## This was the assignment
 
